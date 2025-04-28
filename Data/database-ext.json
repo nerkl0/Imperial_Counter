@@ -1,0 +1,52 @@
+[
+  {
+    "customer_id": 123423,
+    "name": "Han Solo",
+    "email": "han@milleniumfalcon.com"
+  },
+  {
+    "customer_id": 51252,
+    "name": "Lando Calrissian",
+    "email": "lando@cloudcity.com"
+  },
+  {
+    "customer_id": 51593,
+    "name": "Chewbacca",
+    "email": "chewie@milleniumfalcon.com"
+  },
+  {
+    "customer_id": 961235,
+    "name": "Luke Skywalker",
+    "email": "luke@moisturefarmsareus.com"
+  },
+  {
+    "customer_id": 128934,
+    "name": "Princess Leia",
+    "email": "leia@rebellionalliance.com"
+  },
+  {
+    "customer_id": 489342,
+    "name": "Darth Vader",
+    "email": "vader@imperialempire.com"
+  },
+  {
+    "customer_id": 129084,
+    "name": "Obi-Wan Kenobi",
+    "email": "obiwan@jediorder.com"
+  },
+  {
+    "customer_id": 348584,
+    "name": "R2-D2",
+    "email": "r2d2@astromechdroids.com"
+  },
+  {
+    "customer_id": 929383,
+    "name": "C-3PO",
+    "email": "threepio@protocoldroids.com"
+  },
+  {
+    "customer_id": 981239,
+    "name": "Yoda",
+    "email": "yoda@jediwisdom.com"
+  }
+]

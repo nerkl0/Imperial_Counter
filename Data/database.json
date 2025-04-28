@@ -1,0 +1,24 @@
+[
+  {
+    "customer_id": 123423,
+    "name": "Han Solo",
+    "email": "han@milleniumfalcon.com"
+  },
+  {
+    "customer_id": 51252,
+    "name": "Lando Calrissian",
+    "email": "lando@cloudcity.com"
+  },
+  {
+    "customer_id": 51593,
+    "name": "Chewbacca",
+    "email": "chewie@milleniumfalcon.com"
+  },
+  {
+    "customer_id": 961235,
+    "name": "Luke Skywalker",
+    "email": "luke@moisturefarmsareus.com"
+  }
+]
+
+
